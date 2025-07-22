@@ -1,6 +1,3 @@
-# bda-modulo-1-evaluacion-final-InaGo90
-bda-modulo-1-evaluacion-final-InaGo90 created by GitHub Classroom
-
 # Sistema de Gestión de Ventas para Pastelería O Pazo
 
 Este proyecto implementa un sistema para gestionar las ventas de la Pastelería O Pazo, con funcionalidades para la gestión de inventario, compras y clientes.
